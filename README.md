@@ -74,5 +74,5 @@ This unique combination of skills provides me with a fresh perspective on **prob
 
 ## 📬 **Contact Me**
 
-📧 Email: tudor.neagu@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/tudor-neagu)
+📧 Email: neagu.t@gmail.com
+
