@@ -6,15 +6,19 @@ A full-stack web developer passionate about building digital solutions and web t
 
 ## 🚀 **About Me**
 
-🎓 After 7 years of experience as an architect, I made the decision to transition into full-stack web development through an intensive bootcamp at **O'Clock**.  
-🔍 I am currently looking for a **job or internship starting in December** to apply my skills in real-world projects.  
-🌱 I’m always eager to learn new technologies and improve my technical skills, with a focus on performance optimization and creating high-quality user experiences.
+🎓 After 7 years of experience as an architect, I decided to follow my passion for web development and transitioned into full-stack development through an intensive bootcamp at **O'Clock**.  
+🔍 I am currently seeking a **job or internship starting in December** to apply my skills in real-world projects.  
+🌱 I am driven by a continuous desire to learn new technologies and improve my technical skills, with a focus on performance optimization and creating high-quality user experiences.
 
-### 💼 **My Unique Background**
+---
 
-With over 7 years of experience in architecture, I developed strong skills in problem-solving, project management, and creating user-focused designs. Throughout my career, I’ve always been passionate about both architecture and technology. In fact, I had an ongoing interest in web development and programming, and over time, I realized that I could merge these two passions.
+## 💼 **My Unique Background**
 
-Transitioning into full-stack web development has allowed me to combine my creative architectural mindset with my technical skills. I leverage my experience in designing structures and managing complex projects to now build intuitive, scalable, and user-friendly applications. My architectural background gives me a unique perspective on problem-solving and planning, which I now apply to creating efficient, well-structured digital solutions.
+Throughout my career, I have been passionate about both **architecture** and **technology**. Initially, I pursued a successful path in architecture, where I developed strong skills in **problem-solving**, **project management**, and **user-centered design**. At the same time, I maintained a deep interest in **web development** and **programming**.
+
+Recognizing the potential to merge these two passions, I transitioned into **full-stack web development**, where I combine my architectural mindset with technical expertise. My background in architecture allows me to approach challenges creatively and structurally, while my technical skills enable me to develop scalable, intuitive, and user-friendly applications.
+
+This unique combination of skills provides me with a fresh perspective on **problem-solving**, **planning**, and **building efficient digital solutions**. I leverage my experience in managing large projects and my technical knowledge to deliver results that are both practical and innovative.
 
 ---
 
