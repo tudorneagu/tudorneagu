@@ -42,7 +42,7 @@ This unique combination of skills provides me with a fresh perspective on **prob
   - **CI/CD**: GitLab CI, GitHub Actions  
   - **Testing**: Jest  
   - **Project Management**: Agile, Scrum  
-  - **Deployment**: Netlify, Heroku
+  - **Deployment**: Vercel, Netlify, 
 
 - **DevOps**:  
   - Environment management, continuous integration, and deployment
