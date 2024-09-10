@@ -33,7 +33,7 @@ This unique combination of skills provides me with a fresh perspective on **prob
 - **Back-end**:  
   - **Languages**: JavaScript (Node.js)  
   - **Frameworks**: Express.js  
-  - **Database**: PostgreSQL, MongoDB, Prisma (ORM)  
+  - **Database**: PostgreSQL, MongoDB, Sequeelize, Prisma (ORM)  
   - **Authentication**: JWT, bcrypt, session management
 
 - **Tools**:  
