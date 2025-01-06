@@ -2,12 +2,13 @@
 
 A full-stack web developer passionate about building digital solutions and web technologies.
 
+Portofolio : https://tudor-neagu.vercel.app/
+
 ---
 
 ## 🚀 **About Me**
 
 🎓 After 7 years of experience as an architect, I decided to follow my passion for web development and transitioned into full-stack development through an intensive bootcamp at **O'Clock**.  
-🔍 I am currently seeking a **job or internship starting in December** to apply my skills in real-world projects.  
 🌱 I am driven by a continuous desire to learn new technologies and improve my technical skills, with a focus on performance optimization and creating high-quality user experiences.
 
 ---
@@ -19,6 +20,29 @@ Throughout my career, I have been passionate about both **architecture** and **t
 Recognizing the potential to merge these two passions, I transitioned into **full-stack web development**, where I combine my architectural mindset with technical expertise. My background in architecture allows me to approach challenges creatively and structurally, while my technical skills enable me to develop scalable, intuitive, and user-friendly applications.
 
 This unique combination of skills provides me with a fresh perspective on **problem-solving**, **planning**, and **building efficient digital solutions**. I leverage my experience in managing large projects and my technical knowledge to deliver results that are both practical and innovative.
+
+---
+
+## 🌟 **Highlighted Project: Weeklicious**
+
+**Weeklicious** *(In Progress)*  
+I am currently working on a **meal planning and management app** designed to simplify meal organization and enhance social collaboration.
+
+### ✨ **Features**:
+- **Meal Planning**: Organize meals for yourself or your family.  
+- **Collaborative Sharing**: Create, share plan meals with friends and family.  
+- **Shopping List Management**: Generate shopping lists based on meal plans.  
+- **Custom Preferences**: Set dietary restrictions to tailor suggestions.
+
+### 🛠️ **Tech Stack**:
+- **Frontend**: React, Tailwind CSS  
+- **Backend**: Node.js, MongoDB  
+- **DevOps**: Docker Compose for containerization  
+
+### 🚀 **Future Goals**:
+- Smart meal suggestions based on preferences and meal history.  
+- Real-time collaboration with friends and family.  
+- Push notifications for reminders and updates.
 
 ---
 
