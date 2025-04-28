@@ -22,6 +22,29 @@ Recognizing the potential to merge these two passions, I transitioned into **ful
 This unique combination of skills provides me with a fresh perspective on **problem-solving**, **planning**, and **building efficient digital solutions**. I leverage my experience in managing large projects and my technical knowledge to deliver results that are both practical and innovative.
 
 
+## 🛠️ **Projects I've Worked On**
+
+- **Omazon**: Developed a full-fledged e-commerce platform, implementing secure authentication and scalable architecture using Node.js and Prisma.
+- **Ocoffee**: Designed and deployed a responsive website with EJS, ensuring a seamless experience across devices.
+- **Weeklicious** – Created a meal-planner (React front, Node.js/Express back), Docker-containerised and auto-deployed via GitHub Actions to a Hostinger VPS.
+- **IACrea** – Drove the UI re-organisation and new design of the subscriber portal: rebuilt the interface in Next.js/TypeScript with multilingual support, Redux Toolkit state and REST API integration.
+---
+
+## 📚 **Currently Learning**
+
+ - **Python** – still trying to teach the snake to make coffee
+ - **React Native** – because my JavaScript deserves a vacation on mobile 
+
+---
+
+## 🌟 **What I'm Passionate About**
+
+- Solving real-world problems with well-thought-out web applications
+- Learning new technologies and best practices to improve my work
+- Collaborating with teams to build innovative, user-friendly products
+
+---
+
 ## 💻 **Technical Skills**
 
 - **Front-end**:  
@@ -46,29 +69,6 @@ This unique combination of skills provides me with a fresh perspective on **prob
 
 - **DevOps**:  
   - Environment management, continuous integration, and deployment
-
----
-
-## 🛠️ **Projects I've Worked On**
-
-- **Omazon**: Developed a full-fledged e-commerce platform, implementing secure authentication and scalable architecture using Node.js and Prisma.
-- **Ocoffee**: Designed and deployed a responsive website with EJS, ensuring a seamless experience across devices.
-- **Weeklicious** – Created a meal-planner (React front, Node.js/Express back), Docker-containerised and auto-deployed via GitHub Actions to a Hostinger VPS.
-- **IACrea** – Drove the UI re-organisation and new design of the subscriber portal: rebuilt the interface in Next.js/TypeScript with multilingual support, Redux Toolkit state and REST API integration.
----
-
-## 📚 **Currently Learning**
-
- - **Python** – still trying to teach the snake to make coffee
- - **React Native** – because my JavaScript deserves a vacation on mobile 
-
----
-
-## 🌟 **What I'm Passionate About**
-
-- Solving real-world problems with well-thought-out web applications
-- Learning new technologies and best practices to improve my work
-- Collaborating with teams to build innovative, user-friendly products
 
 ---
 
