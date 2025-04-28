@@ -2,7 +2,7 @@
 
 A full-stack web developer passionate about building digital solutions and web technologies.
 
-Portofolio : https://tudor-neagu.vercel.app/
+Portofolio : https://tudorneagu.com
 
 ---
 
@@ -21,36 +21,12 @@ Recognizing the potential to merge these two passions, I transitioned into **ful
 
 This unique combination of skills provides me with a fresh perspective on **problem-solving**, **planning**, and **building efficient digital solutions**. I leverage my experience in managing large projects and my technical knowledge to deliver results that are both practical and innovative.
 
----
-
-## 🌟 **Highlighted Project: Weeklicious**
-
-**Weeklicious** *(In Progress)*  
-I am currently working on a **meal planning and management app** designed to simplify meal organization and enhance social collaboration.
-
-### ✨ **Features**:
-- **Meal Planning**: Organize meals for yourself or your family.  
-- **Collaborative Sharing**: Create, share plan meals with friends and family.  
-- **Shopping List Management**: Generate shopping lists based on meal plans.  
-- **Custom Preferences**: Set dietary restrictions to tailor suggestions.
-
-### 🛠️ **Tech Stack**:
-- **Frontend**: React, Tailwind CSS  
-- **Backend**: Node.js, MongoDB  
-- **DevOps**: Docker Compose for containerization  
-
-### 🚀 **Future Goals**:
-- Smart meal suggestions based on preferences and meal history.  
-- Real-time collaboration with friends and family.  
-- Push notifications for reminders and updates.
-
----
 
 ## 💻 **Technical Skills**
 
 - **Front-end**:  
   - **Languages**: JavaScript (ES6+), HTML5, CSS3  
-  - **Frameworks/Libraries**: React, Next.js  
+  - **Frameworks/Libraries**: React, Next.js, ReactNative  
   - **Styling**: Tailwind CSS, SCSS, EJS  
   - **Other**: Responsive design, RESTful APIs
 
@@ -77,14 +53,14 @@ I am currently working on a **meal planning and management app** designed to sim
 
 - **Omazon**: Developed a full-fledged e-commerce platform, implementing secure authentication and scalable architecture using Node.js and Prisma.
 - **Ocoffee**: Designed and deployed a responsive website with EJS, ensuring a seamless experience across devices.
-
+- **Weeklicious** – Created a meal-planner (React front, Node.js/Express back), Docker-containerised and auto-deployed via GitHub Actions to a Hostinger VPS.
+- **IACrea** – Drove the UI re-organisation and new design of the subscriber portal: rebuilt the interface in Next.js/TypeScript with multilingual support, Redux Toolkit state and REST API integration.
 ---
 
 ## 📚 **Currently Learning**
 
-- Advanced React techniques and performance optimization
-- TypeScript for type safety in JavaScript applications
-- Exploring Next.js for server-side rendering and static site generation
+ - **Python** – still trying to teach the snake to make coffee
+ - **React Native** – because my JavaScript deserves a vacation on mobile 
 
 ---
 
