@@ -1,78 +1,21 @@
-# 👋 Hi, I'm **Tudor Neagu**
+# Tudor Neagu
 
-A full-stack web developer passionate about building digital solutions and web technologies.
+Full Stack Engineer at [NEXQT](https://nexqt.com) · Co-founder of [ArchiZen](https://archi-zen.com) · Architect for seven years before that.
 
-Portofolio : https://tudorneagu.com
+I design and build applications, from the first idea to production. Architecture taught me to work from a plan: framing, stages, iterations. I build software the same way.
 
----
+### What I'm working on
 
-## 🚀 **About Me**
+- **[NEXQT](https://nexqt.com)**: a climate data platform for local authorities. I'm the only developer: front-end and back-end repos, data APIs and databases, AWS infrastructure. Work-study until March 2027.
+- **[ArchiZen](https://archi-zen.com)**: an AI that helps architects frame their projects against building regulations. A home-made RAG over official texts only, every answer cites its articles, and a daily watch on what changes. Live since late September 2026: around 50 sign-ups and 1,000+ questions answered.
+- **[Flowni](https://flowni.app)**: retrocession tracking for self-employed practitioners and their practices. iOS, Android and web.
 
-🎓 After 7 years of experience as an architect, I decided to follow my passion for web development and transitioned into full-stack development through an intensive bootcamp at **O'Clock**.  
-🌱 I am driven by a continuous desire to learn new technologies and improve my technical skills, with a focus on performance optimization and creating high-quality user experiences.
+### What I use most
 
----
+TypeScript · React · Next.js · React Native · Node.js · Python · PostgreSQL · Docker · AWS
 
-## 💼 **My Unique Background**
+### Elsewhere
 
-Throughout my career, I have been passionate about both **architecture** and **technology**. Initially, I pursued a successful path in architecture, where I developed strong skills in **problem-solving**, **project management**, and **user-centered design**. At the same time, I maintained a deep interest in **web development** and **programming**.
+[tudorneagu.com](https://tudorneagu.com) · [LinkedIn](https://www.linkedin.com/in/tudor-neagu)
 
-Recognizing the potential to merge these two passions, I transitioned into **full-stack web development**, where I combine my architectural mindset with technical expertise. My background in architecture allows me to approach challenges creatively and structurally, while my technical skills enable me to develop scalable, intuitive, and user-friendly applications.
-
-This unique combination of skills provides me with a fresh perspective on **problem-solving**, **planning**, and **building efficient digital solutions**. I leverage my experience in managing large projects and my technical knowledge to deliver results that are both practical and innovative.
-
-
-## 🛠️ **Projects I've Worked On**
-
-- **Omazon**: Developed a full-fledged e-commerce platform, implementing secure authentication and scalable architecture using Node.js and Prisma.
-- **Ocoffee**: Designed and deployed a responsive website with EJS, ensuring a seamless experience across devices.
-- **Weeklicious** – Created a meal-planner (React front, Node.js/Express back), Docker-containerised and auto-deployed via GitHub Actions to a Hostinger VPS.
-- **IACrea** – Drove the UI re-organisation and new design of the subscriber portal: rebuilt the interface in Next.js/TypeScript with multilingual support, Redux Toolkit state and REST API integration.
----
-
-## 📚 **Currently Learning**
-
- - **Python** – still trying to teach the snake to make coffee
- - **React Native** – because my JavaScript deserves a vacation on mobile 
-
----
-
-## 🌟 **What I'm Passionate About**
-
-- Solving real-world problems with well-thought-out web applications
-- Learning new technologies and best practices to improve my work
-- Collaborating with teams to build innovative, user-friendly products
-
----
-
-## 💻 **Technical Skills**
-
-- **Front-end**:  
-  - **Languages**: JavaScript (ES6+), HTML5, CSS3  
-  - **Frameworks/Libraries**: React, Next.js, ReactNative  
-  - **Styling**: Tailwind CSS, SCSS, EJS  
-  - **Other**: Responsive design, RESTful APIs
-
-- **Back-end**:  
-  - **Languages**: JavaScript (Node.js)  
-  - **Frameworks**: Express.js  
-  - **Database**: PostgreSQL, MongoDB, Sequeelize, Prisma (ORM)  
-  - **Authentication**: JWT, bcrypt, session management
-
-- **Tools**:  
-  - **Version Control**: Git, GitHub  
-  - **Containerization**: Docker  
-  - **CI/CD**: GitLab CI, GitHub Actions  
-  - **Testing**: Jest  
-  - **Project Management**: Agile, Scrum  
-  - **Deployment**: Vercel, Netlify, 
-
-- **DevOps**:  
-  - Environment management, continuous integration, and deployment
-
----
-
-## 📬 **Contact Me**
-
-📧 Email: neagu.t@gmail.com
-
+Most of my recent work lives in private repositories (NEXQT, ArchiZen, Flowni). Happy to walk you through the code in an interview.
